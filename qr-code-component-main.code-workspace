@@ -1,11 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "C:/Users/iliec/Desktop/qr-code-component-main"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
